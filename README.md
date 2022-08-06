@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I thought coding would be easy.. 🙊**
 
-<h3 align="center">Connect with me:</h3>s
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/yashikaraikwar13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashikaraikwar13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/yashikaraikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yashikaraikwar" height="30" width="40" /></a>
